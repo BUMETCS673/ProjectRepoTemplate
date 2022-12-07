@@ -17,4 +17,4 @@ If the app is deployed on a remote server, please provide a link to the deployed
 Also describe how the app is deployed. 
 
 ## Who we are
-Team members
+Team member names and each member's contribution
