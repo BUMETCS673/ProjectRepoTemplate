@@ -1,1 +1,1 @@
-This is readme file for the doc folder. 
+Overview of what documents are in this folder.
