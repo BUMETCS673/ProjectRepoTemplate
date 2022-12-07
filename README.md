@@ -1,21 +1,20 @@
 # \<Project Name\>
-## Overview
-Please give a brief description about your project here and specify the implementation stack. 
+Please give a brief description about your project here. 
 
-## Screenshots
-Please add some screenshots here 
+## Technology Stack
+Please specify the technology stack used.
 
+## A list of Completed Features 
+Pleaea list all features implemented (from users' pointview) and a brief description of each feature and related screenshots if applies. 
+Also provide a link to your requirement management tool such as pivotaltracker or Jira. 
 
-## How to set up the local development environment
+## Development Configuration Instructions
+Please describe how to set up the local development environment and how to build/run the project.
 
-## How to build/run the project
+## Deployment (if applied) 
+If the app is deployed on a remote server, please provide a link to the deployed app. 
 
-## How to deploy the app (if applied) 
-Pleae the link to deployed app if have
-  
-
-## Workflow?
-
-
+Also describe how the app is deployed. 
 
 ## Who we are
+Team members
